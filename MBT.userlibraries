@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="groovy-1.8.6">
+    <archive path="/opt/local/share/java/groovy/lib/ant-1.8.2.jar" />
+    <archive path="/opt/local/share/java/groovy/lib/ant-antlr-1.8.2.jar" />
+    <archive path="/opt/local/share/java/groovy/lib/ant-junit-1.8.2.jar" />
+    <archive path="/opt/local/share/java/groovy/lib/ant-launcher-1.8.2.jar" />
+    <archive path="/opt/local/share/java/groovy/lib/antlr-2.7.7.jar" />
+    <archive path="/opt/local/share/java/groovy/lib/asm-3.2.jar" />
+    <archive path="/opt/local/share/java/groovy/lib/asm-analysis-3.2.jar" />
+    <archive path="/opt/local/share/java/groovy/lib/asm-commons-3.2.jar" />
+    <archive path="/opt/local/share/java/groovy/lib/asm-tree-3.2.jar" />
+    <archive path="/opt/local/share/java/groovy/lib/asm-util-3.2.jar" />
+    <archive path="/opt/local/share/java/groovy/lib/bsf-2.4.0.jar" />
+    <archive path="/opt/local/share/java/groovy/lib/commons-cli-1.2.jar" />
+    <archive path="/opt/local/share/java/groovy/lib/commons-logging-1.1.1.jar" />
+    <archive path="/opt/local/share/java/groovy/lib/extra166y-1.7.0.jar" />
+    <archive path="/opt/local/share/java/groovy/lib/gpars-0.12.jar" />
+    <archive path="/opt/local/share/java/groovy/lib/groovy-1.8.6.jar" />
+    <archive path="/opt/local/share/java/groovy/lib/hamcrest-core-1.1.jar" />
+    <archive path="/opt/local/share/java/groovy/lib/ivy-2.2.0.jar" />
+    <archive path="/opt/local/share/java/groovy/lib/jansi-1.7.jar" />
+    <archive path="/opt/local/share/java/groovy/lib/jline-0.9.94.jar" />
+    <archive path="/opt/local/share/java/groovy/lib/jsp-api-2.0.jar" />
+    <archive path="/opt/local/share/java/groovy/lib/jsr166y-1.7.0.jar" />
+    <archive path="/opt/local/share/java/groovy/lib/junit-4.10.jar" />
+    <archive path="/opt/local/share/java/groovy/lib/servlet-api-2.4.jar" />
+    <archive path="/opt/local/share/java/groovy/lib/xmlpull-1.1.3.1.jar" />
+    <archive path="/opt/local/share/java/groovy/lib/xstream-1.4.1.jar" />
+  </library>
+</eclipse-userlibraries>
+

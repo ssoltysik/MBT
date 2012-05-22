@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="/MBT/src/test/java"/>
+	<classpathentry kind="src" path="/MBT/src/main/java"/>
+	<classpathentry kind="var" path="USER_HOME/MBT/graphwalker-2.5.17-standalone.jar"/>
+	<classpathentry kind="var" path="APPLICATION_HOME_DIR/plugins/testng/lib/testng-jdk15.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
