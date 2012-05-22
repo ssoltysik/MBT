@@ -19,7 +19,7 @@ public class BourneTest {
 
         // Get the model from resources
         URL url;
-        url = BourneTest.class.getResource("/com/emc/bourne/Bourne.graphml");
+        url = BourneTest.class.getResource("Bourne.graphml");
 
         File file = new File(url.toURI());
 
